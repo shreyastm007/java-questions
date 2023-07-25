@@ -1,0 +1,29 @@
+
+  1.  Write Java code to illustrate each Decision Statements[If, If else, If else if, Nested If & Switch Statement].
+
+  2.  Write Java code to illustrate each Loop Statements[For loop, While loop, Do While loop].
+
+  3.  Write Java code using Unary, Arithmetic, Shift, Relational, Bitwise, logical & Assignment Operators.
+
+  4.  Write Java code to illustrate how to declare a method, how to invoke, method with parameters & method with returning value.
+
+  5.  Create Json Array from the following statement
+      a.Student Name is Arun, Roll Number 5678 and current grade is 5th
+      b.Student Name is Vijay, Roll Number 5679 and current grade is 6th
+  6.  into [{"Name":"Arun", "Roll_Number":"5678 ","Current_Grade":"5"}, {"Name":"Vijay", "Roll_Number":"5679 ","Current_Grade":"6"},] .
+
+  7.  Write a java program to perform mathematical operation using method overloading & method overriding (Same method names).
+
+  8.  Write a java program to illustrate multiple inheritance using interface.
+
+  9.  Write a java program to illustrate encapsulation use getter and setter methods to get and set data respectively.
+
+  10. Write a java program to illustrate abstraction with abstract keyword & interface.
+
+  11. Write a java program to illustrate type casting.
+
+  12. Write a java program to illustrate use of Access Specifiers.
+
+  13. Write a java program to Access array using for loop & for-each loop.
+
+
